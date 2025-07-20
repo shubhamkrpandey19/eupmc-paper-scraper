@@ -11,3 +11,11 @@ This project provides two simple Python scripts to automate the retrieval of res
 
 
 
+
+
+Maintained by Shubham Pandey
+pand2623@vandals.uidaho.edu
+
+
+
+
